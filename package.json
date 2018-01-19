@@ -1,8 +1,8 @@
 {
-  "name": "mutiple-upload",
+  "name": "multiple-upload",
   "version": "0.1.0",
   "description": "a pure javascript client for multiple upload ",
-  "main": "index.js",
+  "main": "dist/multiple.js",
   "directories": {
     "lib": "lib"
   },
